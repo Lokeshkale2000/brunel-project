@@ -1,0 +1,45 @@
+.footer-container {
+  height: 14.4rem;
+  width: 137.6rem;
+  margin: 3.2rem 2rem;
+}
+.footer-container-1 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+
+  cursor: pointer;
+}
+.text-1 {
+  display: inline-block;
+  width: fit-content;
+  width: 25.3rem;
+  height: 2rem;
+
+  font-family: "Manrope";
+  font-size: 1.8rem;
+  font-weight: 500;
+
+  color: #1c1c1c;
+  text-align: left;
+}
+.text-2 {
+  width: fit-content;
+  width: 25.3rem;
+  height: 2rem;
+  font-family: "Manrope";
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #1c1c1c;
+  margin-right: 2rem;
+}
+.text-3 {
+  width: fit-content;
+  width: 25.3rem;
+  height: 2rem;
+  font-family: "Manrope";
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #1c1c1c;
+}

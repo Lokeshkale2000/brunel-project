@@ -1,0 +1,259 @@
+@import url("https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Manrope:wght@200..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+.homepage {
+  width: 100%;
+  height: fit-content;
+  padding: 2.4rem;
+}
+
+.landing-section {
+  margin-top: 7.9rem;
+  margin-left: 6.2rem;
+  margin-bottom: 14.1rem;
+  margin-right: 6.2rem;
+}
+
+.top-headings {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.top-heading-1 {
+  text-align: center;
+  font-size: 3.6rem;
+  font-family: "Covered By Your Grace", cursive;
+  color: #2da950;
+  margin-bottom: 1.6rem;
+  font-weight: 400;
+}
+
+.top-heading-2 {
+  text-align: center;
+  font-size: 5.6rem;
+  color: #1c1c1c;
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+}
+
+.about-section {
+  margin-top: 11.2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-about-section {
+  width: 72.749rem;
+  height: 59.6rem;
+  position: relative;
+}
+
+.right-about-section {
+  margin-right: 14.5rem;
+  margin-top: 7.1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.about-heading {
+  font-size: 4rem;
+  font-family: "Manrope", sans-serif;
+  width: 39.8rem;
+}
+
+.girl-img {
+  height: 54.6rem;
+  width: 50.7rem;
+  left: 14.47rem;
+  position: absolute;
+  border-radius: 5.85rem;
+}
+
+.about-box-1 {
+  height: 24rem;
+  width: 26.8rem;
+  position: absolute;
+  top: 11.4rem;
+  border-radius: 2.7rem;
+  background: #ffffff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.about-box-2 {
+  height: 8.8rem;
+  width: 24.5rem;
+  position: absolute;
+  top: 41.3rem;
+  left: 8.6rem;
+
+  border-radius: 4.4rem;
+  background: #ffffff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.about-box-3 {
+  height: 24rem;
+  width: 29rem;
+  position: absolute;
+  background: #002e18;
+  border-radius: 2.7rem;
+  bottom: 0;
+  right: 0;
+}
+
+.questions-section {
+  margin: 0.8rem;
+  background: #e8eee7;
+  height: 74.9rem;
+  border-radius: 4rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.questions-left-section {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.question-headings {
+  margin-top: 8rem;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9.45rem;
+}
+
+.question-heading-1 {
+  text-align: left;
+  font-size: 3.2rem;
+  font-family: "Covered By Your Grace", cursive;
+  color: #9e9d9d;
+  margin-bottom: 2rem;
+  font-weight: 400;
+}
+
+.question-heading-2 {
+  text-align: left;
+  font-size: 6rem;
+  color: #1c1c1c;
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+}
+
+.Alogo {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 51.46rem;
+  width: 49.1rem;
+}
+
+.questions-right-section {
+  margin-top: 13.7rem;
+  margin-left: 22.15rem;
+  margin-right: 7.4rem;
+}
+.Expolre-btn {
+  border: none;
+  outline: none;
+  justify-content: center;
+  margin-top: 4.7rem;
+  height: 7.72rem;
+  width: 41.7rem;
+  background: #1c1c1c;
+  color: #ffffff;
+  font-size: 1.8rem;
+  font-weight: 600;
+  font-family: "Manrope", sans-serif;
+  border-radius: 3.86rem;
+  cursor: pointer;
+}
+.box-1-text-par {
+  justify-content: center;
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+  color: #828282;
+  margin: 2.2rem;
+  font-size: 1.8rem;
+}
+.about-box-2-D {
+  display: inline-flex;
+}
+.about-box-2 {
+  justify-content: center;
+}
+
+.numicon {
+  margin-left: -6rem;
+}
+.sparkImage {
+  margin-top: -2rem;
+}
+.box-1-text-par {
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  color: #828282;
+  justify-content: center;
+}
+.gorocket-icon {
+  padding: 1.6rem, 3.2rem, 1.6rem, 1.6rem;
+  margin-top: 2.02rem;
+  margin-left: 2.5rem;
+  margin-bottom: 3.1rem;
+}
+.days {
+  color: #1c1c1c;
+  font-weight: 700;
+  font-size: 2.4rem;
+  width: 9.2rem;
+  justify-content: center;
+  margin: 2rem, 4rem;
+  font-family: "Manrope", sans-serif;
+  height: 3.3rem;
+}
+.Staff-text {
+  color: #828282;
+
+  width: 13.1rem;
+  height: 2.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  font-family: "Manrope", sans-serif;
+}
+.dollar-img {
+  color: #ffffff;
+  size: 6.337rem;
+
+  height: 7.6rem;
+  width: 11.9rem;
+  font-family: "Switzer", sans-serif;
+  font-weight: 500;
+  justify-content: center;
+  margin-left: 3.6rem;
+  margin-top: 3.4rem;
+}
+.Mill-text {
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  color: #828282;
+  justify-content: center;
+  font-size: 2.281rem;
+  margin-left: 0.8rem;
+}
+.Reduced-client {
+  font-family: "Manrope", sans-serif;
+  color: #cccccc;
+  width: 22.449rem;
+  height: 6.9rem;
+  font-weight: 500;
+  font-size: 1.8rem;
+  justify-content: center;
+  margin-left: 3.6rem;
+  margin-bottom: 4rem;
+}
+.questions-right-section {
+  width: 58.1rem;
+}

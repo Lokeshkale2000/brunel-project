@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+.navbar {
+  height: 11.17rem;
+  width: 100%;
+  border-radius: 55.85rem;
+  border: 0.131rem solid #eaeaea;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-img {
+  margin-left: 5.9rem;
+  width: 12.1rem;
+  height: 3.05rem;
+  cursor: pointer;
+}
+
+.navbar-btns-section {
+  margin-right: 2.09rem;
+}
+
+.navbar-btn {
+  width: 22.34rem;
+  height: 7.72rem;
+  border: 0.131rem solid #eaeaea;
+  border-radius: 55.85rem;
+  margin-left: 1.56rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  font-family: "Manrope", sans-serif;
+  cursor: pointer;
+}
+
+.navbar-btn-1 {
+  color: #1c1c1c;
+  background-color: #ffffff;
+}
+
+.navbar-btn-2 {
+  background-color: #1c1c1c;
+  color: #ffffff;
+}
